@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 23 Jun 2021 14:50:22 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 15:19:37 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://example.com/rss.xml" />
         
@@ -74,7 +74,7 @@ categories: &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;s2&#
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://example.com/images/hugo.assets/image-20210523222156476.png&#34; alt=&#34;image-20210523222156476&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://example.com/images/hugo.assets/image-20210623144808225.png&#34; alt=&#34;image-20210623144808225&#34;&gt;&lt;/p&gt;
-&lt;h4 id=&#34;插入图片&#34;&gt;插入图片&lt;/h4&gt;
+&lt;p&gt;插入图片&lt;/p&gt;
 &lt;p&gt;设置typora的文件保存为指定目录&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
