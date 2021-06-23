@@ -8,7 +8,7 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>微动态</title>
-        <link>https://monster1164.github.io/en-us/</link>
+        <link>https://ztygcs.github.io/en-us/</link>
         <description>Blog of ztygcs in English.</description>
         <generator>Hugo 0.83.1 https://gohugo.io/</generator>
         
@@ -21,9 +21,9 @@
             <webMaster>zccon1996@163.com (天涯共此时)</webMaster>
         
         
-        <lastBuildDate>Wed, 23 Jun 2021 14:57:59 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 23 Jun 2021 15:46:26 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://monster1164.github.io/en-us/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://ztygcs.github.io/en-us/rss.xml" />
         
         
     </channel>

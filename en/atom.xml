@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-US">
+    <title type="text">Keiyui Kwan&#39;s Blog</title>
+    <subtitle type="html">Keiyui Kwan&#39;s Blog in English.</subtitle>
+    <updated>2021-06-23T16:00:34&#43;08:00</updated>
+    <id>https://guanqr.com/en/</id>
+    <link rel="alternate" type="text/html" href="https://guanqr.com/en/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://guanqr.com/en/atom.xml" />
+    <author>
+            <name>Keiyui Kwan</name>
+            <uri>https://guanqr.com/en/</uri>
+            
+                <email>guanqirui@zju.edu.cn</email>
+            </author>
+    <rights>The article is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).</rights>
+    <generator uri="https://gohugo.io/" version="0.83.1">Hugo</generator>
+</feed>

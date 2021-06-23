@@ -7,12 +7,12 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>荷戟独彷徨</title>
-        <link>https://guanqr.com/</link>
-        <description>Keiyui Kwan&#39;s Blog</description>
+        <title>Keiyui Kwan&#39;s Blog</title>
+        <link>https://guanqr.com/en/</link>
+        <description>Keiyui Kwan&#39;s Blog in English.</description>
         <generator>Hugo 0.83.1 https://gohugo.io/</generator>
         
-            <language>zh-CN</language>
+            <language>en-US</language>
         
         
             <managingEditor>guanqirui@zju.edu.cn (Keiyui Kwan)</managingEditor>
@@ -21,11 +21,11 @@
             <webMaster>guanqirui@zju.edu.cn (Keiyui Kwan)</webMaster>
         
         
-            <copyright>本文采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 许可协议，转载请注明出处。</copyright>
+            <copyright>The article is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).</copyright>
         
         <lastBuildDate>Wed, 23 Jun 2021 16:00:34 &#43;0800</lastBuildDate>
         
-            <atom:link rel="self" type="application/rss&#43;xml" href="https://guanqr.com/rss.xml" />
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://guanqr.com/en/rss.xml" />
         
         
     </channel>

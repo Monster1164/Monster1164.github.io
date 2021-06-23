@@ -2,16 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ztygcs.github.io/en-us/</loc>
+    <loc>https://guanqr.com/series/</loc>
+  </url><url>
+    <loc>https://guanqr.com/tags/</loc>
+  </url><url>
+    <loc>https://guanqr.com/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="https://ztygcs.github.io/"
+                hreflang="en"
+                href="https://guanqr.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="https://ztygcs.github.io/en-us/"
+                hreflang="zh"
+                href="https://guanqr.com/"
                 />
   </url>
 </urlset>
